@@ -7,14 +7,14 @@
 
 - 📫 How to reach me **mhmdnsr.dev@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tA_oE31nmbc8fuXZihsSRnOzWQRIIrRO/view?usp=sharing)
+- 📄 Know about my experiences [resume/CV](https://drive.google.com/file/d/1tA_oE31nmbc8fuXZihsSRnOzWQRIIrRO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/monasr1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/monasr1997" height="30" width="40" /></a>
 <a href="https://dev.to/monasr1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="monasr1997" height="30" width="40" /></a>
-<a href="https://twitter.com/mhmdnsr_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhmdnsr_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mhmdnsr-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhmdnsr-dev/" height="30" width="40" /></a>
+<a href="https://twitter.com/_mhmdnsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhmdnsr_dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mhmdnsr-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhmdnsr-/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
