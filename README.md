@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Nasr</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **Typescript, Next.js, PWA, GraphQL.**
 
-- 💬 Ask me about **javascript, react.**
+- 💬 Ask me about **javascript, react, Next.js**
 
 - 📫 How to reach me **mhmdnsr.dev@gmail.com**
 
-- 📄 Know about my experiences [resume/CV](https://drive.google.com/file/d/1tA_oE31nmbc8fuXZihsSRnOzWQRIIrRO/view?usp=sharing)
+- 📄 Know about my experiences [resume/CV](https://drive.google.com/file/d/16PVKRz3T4dD0fZDXwCj3AYf8uhYHfofh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
