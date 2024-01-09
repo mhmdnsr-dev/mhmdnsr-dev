@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Nasr</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **Typescript, Next.js, PWA, GraphQL.**
+- 🌱 I’m currently learning **PWA, GraphQL**
 
-- 💬 Ask me about **javascript, react, Next.js**
+- 💬 Ask me about **javascript, Typescript, react, Next.js, Angular**
 
 - 📫 How to reach me **mhmdnsr.dev@gmail.com**
 
-- 📄 Know about my experiences [resume/CV](https://drive.google.com/file/d/16PVKRz3T4dD0fZDXwCj3AYf8uhYHfofh/view?usp=sharing)
+- 📄 Know about my experiences [resume/CV]([https://drive.google.com/file/d/16PVKRz3T4dD0fZDXwCj3AYf8uhYHfofh/view?usp=sharing](https://drive.google.com/file/d/1qurhMPEc2gmcJF7gwIFWd8hPWhQLnk-7/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
