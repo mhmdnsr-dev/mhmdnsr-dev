@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PWA, GraphQL**
 
-- 💬 Ask me about **javascript, Typescript, react, Next.js, Angular**
+- 💬 Ask me about **Javascript, Typescript, React, Next.js, Angular**
 
 - 📫 How to reach me **mhmdnsr.dev@gmail.com**
 
