@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mhmdnsr.dev@gmail.com**
 
-- 📄 Know about my experiences [Resume/CV](https://drive.google.com/file/d/1qurhMPEc2gmcJF7gwIFWd8hPWhQLnk-7/view?usp=drive_link)
+- 📄 Know about my experiences [Resume/CV](https://drive.google.com/drive/folders/1fb2Z5Du22Nzpr2dHnGpGPBFMceXOTUGS?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
