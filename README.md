@@ -5,7 +5,7 @@
   <a href="https://nasr-me.vercel.app">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/mdnsr/">LinkedIn</a> ·
   <a href="mailto:mhmdnsr.dev@gmail.com">Email</a> ·
-  <a href="https://drive.google.com/drive/folders/1fb2Z5Du22Nzpr2dHnGpGPBFMceXOTUGS?usp=sharing">Resume/CV</a>
+  <a href="https://drive.google.com/file/d/11B4nqXcpouhkzS69tV3gHfqqbIIL7dlb/view?usp=drive_link">Resume/CV</a>
 </p>
 
 At **Sheen Information Technology** I build web apps for **B2B travel tech**: flight search, pricing and booking across ~15 airline suppliers
